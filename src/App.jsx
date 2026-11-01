@@ -112,7 +112,7 @@ function App() {
         <h2 style={judulSection}>Profil Mahasiswa Praktikan</h2>
         <KartuProfil
           nama="Muhammad Rafi Fathurrahman Hamid"
-          npm="2243040056"
+          npm="243040056"
           kelas="D"
           status="Aktif"
           fotoUrl="/ME.jpeg"
